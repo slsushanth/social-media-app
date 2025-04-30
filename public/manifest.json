@@ -1,0 +1,16 @@
+{
+  "short_name": "Social Media App",
+  "name": "Social Media Application",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1E88E5",
+  "background_color": "#ffffff"
+} 
